@@ -1,0 +1,77 @@
+{ "videos":
+    [
+        {
+          "id": "2d1b3813-0b0e-4ff8-8e7d-dc2d175aece1",
+          "titulo": "The Evil Dead",
+          "categoria": "terror",
+          "capa": "https://raw.githubusercontent.com/AmigoDaLua/aluraflix-api/main/img/evil_dead.jpg",
+          "link": "https://www.youtube.com/embed/0cQmKgV0cug?si=nG0QsjPuIwipTc9L",
+          "descricao": "Cinco jovens vão passar um fim de semana em uma cabana isolada nos bosques de Tennessee. Os jovens têm estranhas experiências, obviamente causadas pela presença do Livro dos Mortos (o Necronomicon Ex Mortis, encadernado em pele humana e escrito em sangue) que encontraram."
+        },
+        {
+            "id": "94d60185-1538-471f-b537-3a1ee1dedf43",
+            "titulo": "Gojira",
+            "categoria": "terror",
+            "capa": "https://raw.githubusercontent.com/AmigoDaLua/aluraflix-api/main/img/gojira.jpg",
+            "link": "https://www.youtube.com/embed/0tKvxIp29Js?si=XUivUhkXLdE9sxhU",
+            "descricao": "Um gigantesco réptil mutante com 50 metros de altura surge em virtude de testes nucleares. A monstruosa criatura cria um rastro de destruição no seu caminho até Tóquio, que corre o risco de ser totalmente destruída se o monstro, imenso como um dinossauro, não for detido."
+          },
+          {
+            "id":"ac8b8a30-d32b-4388-925e-31b16881990a",
+            "titulo": "O Ogro",
+            "categoria":"terror",
+            "capa":"https://raw.githubusercontent.com/AmigoDaLua/aluraflix-api/main/img/ogro.jpg",
+            "link":"https://www.youtube.com/embed/cP9lhYh9SSU?si=STp6Gm75HytwgNJp",
+            "descricao":"O Ogro é uma HQ publicada em 1984 na edição 27 da saudosa revista Calafrio. Nela, desenhando com tinta branca sobre cartolina preta, o artista Julio Shimamoto antecipou em uma década o que Frank Miller viria a fazer em Sin City. A atmosfera densa e a abordagem expressionista impostas pela arte de Shimamoto transformaram o roteiro de Antônio Rodrigues -- que lidava com clichês de um terror gótico -- em uma pequena obra-prima. A escolha da HQ a ser adaptada foi feita pelo próprio Shima, por inaugurar uma nova etapa em seu uso gráfico do claro-escuro."
+          },
+          {
+            "id":"c31917c7-a3b0-4a8b-ba85-854412688e63",
+            "titulo": "Marte Um",
+            "categoria":"drama",
+            "capa":"https://raw.githubusercontent.com/AmigoDaLua/aluraflix-api/main/img/marte_1.jpg",
+            "link":"https://www.youtube.com/embed/jFMBb7Z5N24?si=T6NHLtwdJJemCOPw",
+            "descricao":"Uma família negra da periferia de Contagem, Minas Gerais, busca seguir seus sonhos em um país que acaba de eleger como presidente um homem de extrema-direita, que representa o contrário de tudo que eles são."
+          },
+          {
+            "id":"a765a2e8-d327-4835-99cf-745a17f6223d",
+            "titulo": "Rocky - Um Lutador",
+            "categoria":"drama",
+            "capa":"https://raw.githubusercontent.com/AmigoDaLua/aluraflix-api/main/img/rocky.jpg",
+            "link":"https://www.youtube.com/embed/-Hk-LYcavrw?si=DIjV5TMx0ftZkhKp",
+            "descricao":"Rocky Balboa é um aspirante a lutador de boxe que trabalha numa fábrica de carnes e ganha um extra como cobrador de dívidas. Quando surge a proposta de lutar com o campeão de pesos-pesados: Apollo Creed."
+          },
+          {
+            "id":"739d0458-9b6e-4bb4-96f7-5bc47aa33559",
+            "titulo": "Estômago",
+            "categoria":"drama",
+            "capa":"https://raw.githubusercontent.com/AmigoDaLua/aluraflix-api/main/img/estomago.jpg",
+            "link":"https://www.youtube.com/embed/zPmVXkWi9Yk?si=abjxXPnuHM49e1Gj",
+            "descricao":"Raimundo Nonato mudou-se para a cidade grande na esperança de ter uma vida melhor. Ele trabalha como faxineiro em um bar e descobre que seu talento é mesmo na cozinha. Raimundo faz do local um sucesso e acaba sendo contratado para trabalhar em um restaurante italiano da região como assistente de cozinheiro. A cozinha italiana é uma grande descoberta para Raimundo, que agora tem uma casa, roupas melhores, relacionamentos sociais e um amor, a prostituta Íria."
+          },
+          {
+            "id":"ded37e6e-9784-4992-b56f-da0c4647caaf",
+            "titulo": "The Owl House",
+            "categoria":"animação",
+            "capa":"https://raw.githubusercontent.com/AmigoDaLua/aluraflix-api/main/img/owl_house.jpg",
+            "link":"https://www.youtube.com/embed/1W1FFiT51lg?si=pY0e9CXxWYjliBg2",
+            "descricao":"Luz é uma adolescente humana autoconfiante que acidentalmente tropeça em um portal para o Reino Demônio. Lá ela faz amizade com uma bruxa rebelde, Eda, e um guerreiro adoravelmente pequeno, King. Apesar de não ter habilidades mágicas, Luz persegue seu sonho de se tornar uma bruxa servindo como aprendiz de Eda na Casa da Coruja e, finalmente, encontra uma nova família num mundo mágico insano."
+          },
+          {
+            "id":"09e97883-a3c2-45b8-8b85-f982574bf404",
+            "titulo": "She-Ra e as Princesas do Poder",
+            "categoria":"animação",
+            "capa":"https://raw.githubusercontent.com/AmigoDaLua/aluraflix-api/main/img/she_ra.jpg",
+            "link":"https://www.youtube.com/embed/GsGMkAWB6lY?si=e1EiZHdpdUlTBjl4",
+            "descricao":"A série segue Adora, uma órfã criada por Hordak, o tirano que governa o planeta Etheria através de sua horda malvada. Um dia, depois de se perder na floresta, Adora encontra uma espada mágica que a transforma na Princesa do Poder, She-Ra. Percebendo o sofrimento que a Horda infligiu ao planeta e seu povo, Adora se une à resistência contra ela e reconstrói a Aliança das Princesas, um grupo de outras garotas mágicas que se opõem a Hordak."
+          },
+          {
+            "id":"d14815fd-bc0f-4d7f-84dd-a998a1dec189",
+            "titulo": "Além da Lenda - O filme",
+            "categoria":"animação",
+            "capa":"https://raw.githubusercontent.com/AmigoDaLua/aluraflix-api/main/img/alem_da_lenda.png",
+            "link":"https://www.youtube.com/embed/TYqdKRyl1R8?si=az57U-BsBUXUZWQT",
+            "descricao":"Expandindo o universo de Além da Lenda - série brasileira da TV Brasil - o filme traz a história dos folclores brasileiros para a telas de cinema do Brasil. Uma vez por ano, a cada Dia do Saci, 31 de Outubro, também conhecido como 'Dia das Bruxas', é revelado o livro sagrado que reúne todas as lendas do Brasil. Mas nessa data de Saci/Halloween, outros seres místicos de outros países vem para o país, onde pretendem roubar o livro e as lendas."
+          }
+
+      ]
+}

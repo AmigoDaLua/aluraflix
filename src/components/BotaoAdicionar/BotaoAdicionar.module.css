@@ -1,0 +1,23 @@
+.container{
+    align-items: center;
+    display: flex;
+    background-color: #257beb;
+    height: 4rem;
+    justify-content: center;
+    width: 100%;
+    text-decoration: none;
+}
+
+.container:first-child{
+    margin-bottom: 1rem;
+}
+
+.container:hover{
+    background-color: #1c68cc;
+}
+
+
+.texto{
+    color: white; 
+    font-family: "Archivo", sans-serif;  
+}

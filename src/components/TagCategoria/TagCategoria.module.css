@@ -1,0 +1,10 @@
+.tag{      
+    text-align: center;
+    width: 130px;
+}
+
+.nome{
+    border-radius: 7px;
+    color: white;
+    text-transform: uppercase;
+}

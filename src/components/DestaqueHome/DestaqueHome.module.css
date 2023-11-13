@@ -1,0 +1,89 @@
+.container{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin: 0 0 2rem 0;
+
+}
+
+.capa{
+    height: 200px;
+    margin: 0 0 -2.5rem 0;
+    opacity: 20%;
+    width: 100%;
+
+}
+
+.titulo{
+    text-align: center;
+    z-index: 1;
+    font-family: "Archivo";
+    color: white;
+}
+
+.botaoMobile{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.botaoAssistir{
+    width: 40%;
+}
+
+.caixaDestaque{
+    display: none;
+}
+
+
+
+
+@media screen and (min-width: 768px){
+    .capa{
+        height: 400px;
+    }
+}
+
+@media screen and (min-width: 1024px){
+
+    .botaoMobile{
+        display: none;
+    }
+
+    .capa{
+        width: 100%;
+        height: 500px;
+        margin: 0 0 -22rem 0;
+    }
+
+    
+    .caixaDestaque{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        gap: 0.5rem;
+        width: 850px;
+        z-index: 1;
+    }
+    
+    .capaCaixa{
+        width: 400px;
+        transition: all .3s ease-in-out;
+    }
+
+    .capaCaixa:hover{
+        cursor:pointer;
+        transform: scale(1.06,1.06);
+        
+    }
+    
+    .caixaDestaqueInfo{
+        width: 500px;
+    }
+
+    .titulo{
+        display: none;
+    
+    }
+}

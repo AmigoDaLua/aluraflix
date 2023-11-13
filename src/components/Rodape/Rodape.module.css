@@ -1,0 +1,29 @@
+.container{
+    align-items: center;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+    text-align: center;
+    border-top: 3px solid #257beb;
+}
+
+.logo{
+    width: 100px;
+}
+
+.texto{
+    color: white;
+    font-size: 14px;
+}
+
+.texto a{
+    text-decoration: none;
+    color: #257beb;
+}
+
+.texto a:hover{
+    color: #246ed0;
+}
+

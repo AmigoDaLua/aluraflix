@@ -1,0 +1,35 @@
+.titulo{
+    color: white;
+    margin: 1rem 0;
+    text-align: center;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerVideo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 99%;
+    height: 310px;
+    margin-bottom: 2rem;
+}
+
+
+@media screen and (min-width: 1024px){
+    .containerVideo{
+        width: 80%;
+        height: 412px;
+        margin: 1rem auto;
+    }
+
+    .titulo{
+        font-size: 30px;
+    }
+}

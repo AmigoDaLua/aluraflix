@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo": "Ação",
+        "cor": "red",
+        "descricao": "Explosões, Tiros, Lutas, Perseguição...!"
+
+    },
+    {
+        "id": 2,
+        "titulo": "Aventura",
+        "cor": "blue",
+        "descricao": "...E vão aprontar altas confusões!..."
+
+    },
+    {
+        "id": 3,
+        "titulo": "Terror",
+        "cor": "black",
+        "descricao": "...AAAHhh!"
+
+    }
+]
